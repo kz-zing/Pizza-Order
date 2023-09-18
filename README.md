@@ -1,2 +1,2 @@
-"# Pizza-Order" 
-"# Pizza-Order" 
+npm i
+npm run dev
