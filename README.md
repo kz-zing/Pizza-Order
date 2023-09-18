@@ -1,12 +1,12 @@
 "scripts": {
 
-  "dev": "vite",
+"dev": "vite",
 
-  "build": "vite build",
+"build": "vite build",
 
-  "preview": "vite preview"
+"preview": "vite preview"
 
- },
+},
 
 npm i or npm install
 
